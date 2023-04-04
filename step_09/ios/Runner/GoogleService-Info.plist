@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>365762963805-58sn9f03n4vv80sjgbgpkvaml7ssokvv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.365762963805-58sn9f03n4vv80sjgbgpkvaml7ssokvv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDulSFQqPg_NO-RVgzeYgSDfjfKOZQV99A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>365762963805</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.gtkFlutter</string>
+	<key>PROJECT_ID</key>
+	<string>vize-030121008</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vize-030121008.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:365762963805:ios:28c28ca7dc317a88eca0b4</string>
+</dict>
+</plist>
