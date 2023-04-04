@@ -14,6 +14,7 @@ class GuestBook extends StatefulWidget {
     super.key,
     required this.addMessage,
     required this.messages,
+    bool flutterAttend = false
   });
 
   final FutureOr<void> Function(String message) addMessage;
